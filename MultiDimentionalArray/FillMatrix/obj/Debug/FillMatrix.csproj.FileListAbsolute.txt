@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\FillMatrix\bin\Debug\FillMatrix.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\FillMatrix\bin\Debug\FillMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\FillMatrix\bin\Debug\FillMatrix.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\FillMatrix\obj\Debug\FillMatrix.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\FillMatrix\obj\Debug\FillMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\FillMatrix\obj\Debug\FillMatrix.pdb

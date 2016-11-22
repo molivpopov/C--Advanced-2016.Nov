@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\MaximalSum\obj\Debug\MaximalSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\Maria_fillThMatrix\bin\Debug\Maria_fillThMatrix.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\Maria_fillThMatrix\bin\Debug\Maria_fillThMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\Maria_fillThMatrix\bin\Debug\Maria_fillThMatrix.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\Maria_fillThMatrix\obj\Debug\Maria_fillThMatrix.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\Maria_fillThMatrix\obj\Debug\Maria_fillThMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\Maria_fillThMatrix\obj\Debug\Maria_fillThMatrix.pdb

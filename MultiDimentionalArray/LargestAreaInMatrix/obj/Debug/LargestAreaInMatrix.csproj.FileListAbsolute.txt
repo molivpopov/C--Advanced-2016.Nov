@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.csprojResolveAssemblyReference.cache

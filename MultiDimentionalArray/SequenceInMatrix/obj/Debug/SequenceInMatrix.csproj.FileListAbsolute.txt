@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\MultiDimentionalArray\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

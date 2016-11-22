@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NFactorial\bin\Debug\NFactorial.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NFactorial\bin\Debug\NFactorial.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NFactorial\bin\Debug\NFactorial.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NFactorial\obj\Debug\NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NFactorial\obj\Debug\NFactorial.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NFactorial\obj\Debug\NFactorial.pdb

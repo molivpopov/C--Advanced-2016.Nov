@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NumberAsArray\bin\Debug\NumberAsArray.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NumberAsArray\bin\Debug\NumberAsArray.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NumberAsArray\obj\Debug\NumberAsArray.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NumberAsArray\obj\Debug\NumberAsArray.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Methods\NumberAsArray\obj\Debug\NumberAsArray.pdb
