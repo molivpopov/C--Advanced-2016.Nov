@@ -8,51 +8,58 @@
         static void Main()
         {
             // set Up
-            var n = int.Parse(Console.ReadLine().Split(' ')[0]);
-            var mattrix = new List<int>();
-            var differentNumber = new List<int>();
+            var rows = int.Parse(Console.ReadLine().Split(' ')[0]);
+            var maxSizeNeighbour = int.MinValue;
+            var mattrix = new List<int[]>();
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < rows; i++)
             {
-                Console.ReadLine().Split(' ').Select(int.Parse).ToList().ForEach(mattrix.Add);
+                mattrix.Add(Console.ReadLine().Split(' ').Select(int.Parse).ToArray());
             }
 
-            int maxSizeNeighbour = int.MinValue;
+            var cols = mattrix[0].Length;
+            var isPassed = new bool[rows, cols];
 
-            for (int i = 0; i < mattrix.Count; i++)
+            //Engine
+            for (int i = 0; i < rows; i++)
             {
-                if (!differentNumber.Exists(x => x == mattrix[i]))
+                for (int j = 0; j < cols; j++)
                 {
-                    var indexes = new List<int>();
-                    differentNumber.Add(mattrix[i]);
-                    mattrix.FindAll(x => { if (x == mattrix[i]) indexes.Add(mattrix.IndexOf(x)); return x == mattrix[i]; });
-                    int sizeNeighbour = countOfNeighbour(1, 0, n, indexes);
-                    maxSizeNeighbour = sizeNeighbour > maxSizeNeighbour ? sizeNeighbour : maxSizeNeighbour;
+                    var localMax = FindNeighbour(j, i, isPassed, mattrix);
+                    maxSizeNeighbour = maxSizeNeighbour > localMax ? maxSizeNeighbour : localMax;
                 }
             }
 
             Console.WriteLine(maxSizeNeighbour);
         }
-        private static int countOfNeighbour(int count, int firstIndex, int heigtOfMattrix, List<int> mattrix)
+
+        // Factory
+        private static int FindNeighbour(int x, int y, bool[,] isPassed, List<int[]> mattrix)
         {
-            var firstItem = mattrix[firstIndex];
-            mattrix.RemoveAt(firstIndex);
+            int col = mattrix[0].Length;
+            int row = mattrix.Count;
 
-            if (mattrix.Count == 0)
+            //rules to be Neighbour  - ?????
+            var dx = new int[] { 0, 1, 0, -1 };
+            var dy = new int[] { -1, 0, 1, 0 };
+
+            int numberToCheck = mattrix[y][x];
+            int depth = 1;
+            isPassed[y, x] = true;
+
+            for (int i = 0; i < dx.Length; i++)
             {
-                return count;
+                int xx = x + dx[i]; int yy = y + dy[i];
+                if (xx >= 0 && yy >= 0 && xx < col && yy < row)
+                {
+                    if (!isPassed[yy, xx] && mattrix[yy][xx] == numberToCheck)
+                    {
+                        isPassed[yy, xx] = true;
+                        depth += FindNeighbour(xx, yy, isPassed, mattrix);
+                    }
+                }
             }
-
-            // this statment find the first index of matched 
-            firstIndex = mattrix.Find(x => (Math.Abs(x - firstItem) <= heigtOfMattrix && Math.Abs(x - firstItem) % heigtOfMattrix <= 1));
-
-            if (firstIndex != 0)
-            {
-                count++;
-                firstIndex = mattrix.IndexOf(firstIndex);
-            }
-
-            return countOfNeighbour(count, firstIndex, heigtOfMattrix, mattrix);
+            return depth;
         }
     }
 }

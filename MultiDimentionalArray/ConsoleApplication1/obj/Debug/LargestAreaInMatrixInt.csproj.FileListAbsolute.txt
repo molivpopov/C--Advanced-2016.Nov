@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\MultiDimentionalArray\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\MultiDimentionalArray\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\MultiDimentionalArray\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\MultiDimentionalArray\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\MultiDimentionalArray\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\MultiDimentionalArray\ConsoleApplication1\obj\Debug\LargestAreaInMatrixInt.csprojResolveAssemblyReference.cache

@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestAreaInMatrix", "Larg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestAreaInMatrixInt", "ConsoleApplication1\LargestAreaInMatrixInt.csproj", "{F69CFFF8-6901-4A6B-9F4A-3FB001D2C648}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maria_fillThMatrix", "Maria_fillThMatrix\Maria_fillThMatrix.csproj", "{9698B744-602A-48E2-9BB2-D9AC4171FC61}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,10 +39,6 @@ Global
 		{F69CFFF8-6901-4A6B-9F4A-3FB001D2C648}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F69CFFF8-6901-4A6B-9F4A-3FB001D2C648}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F69CFFF8-6901-4A6B-9F4A-3FB001D2C648}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9698B744-602A-48E2-9BB2-D9AC4171FC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9698B744-602A-48E2-9BB2-D9AC4171FC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9698B744-602A-48E2-9BB2-D9AC4171FC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9698B744-602A-48E2-9BB2-D9AC4171FC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
