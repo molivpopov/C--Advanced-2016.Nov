@@ -1,0 +1,1 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\NumeralSystem\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config

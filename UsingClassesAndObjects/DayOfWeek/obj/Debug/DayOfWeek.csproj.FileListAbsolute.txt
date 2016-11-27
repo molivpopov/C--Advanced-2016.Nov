@@ -1,0 +1,5 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\DayOfWeek\obj\Debug\DayOfWeek.pdb

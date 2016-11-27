@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\Workdays\bin\Debug\Workdays.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\Workdays\bin\Debug\Workdays.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\Workdays\bin\Debug\Workdays.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\Workdays\obj\Debug\Workdays.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\Workdays\obj\Debug\Workdays.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\UsingClassesAndObjects\Workdays\obj\Debug\Workdays.pdb
