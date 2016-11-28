@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\EncodeDecode\bin\Debug\EncodeDecode.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\EncodeDecode\obj\Debug\EncodeDecode.pdb

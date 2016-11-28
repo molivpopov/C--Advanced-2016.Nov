@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\ExtractSentence2\bin\Debug\ExtractSentence2.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\ExtractSentence2\bin\Debug\ExtractSentence2.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\ExtractSentence2\bin\Debug\ExtractSentence2.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\ExtractSentence2\obj\Debug\ExtractSentence2.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\ExtractSentence2\obj\Debug\ExtractSentence2.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\ExtractSentence2\obj\Debug\ExtractSentence2.csprojResolveAssemblyReference.cache
