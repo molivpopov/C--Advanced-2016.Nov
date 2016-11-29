@@ -1,0 +1,5 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb
