@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\AnimalPlanet\bin\Debug\AnimalPlanet.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\AnimalPlanet\bin\Debug\AnimalPlanet.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\AnimalPlanet\bin\Debug\AnimalPlanet.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\AnimalPlanet\obj\Debug\AnimalPlanet.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\AnimalPlanet\obj\Debug\AnimalPlanet.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\AnimalPlanet\obj\Debug\AnimalPlanet.csprojResolveAssemblyReference.cache
