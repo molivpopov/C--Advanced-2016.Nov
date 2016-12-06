@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\SafeFlights\SafeFlights\bin\Debug\SafeFlights.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\SafeFlights\SafeFlights\bin\Debug\SafeFlights.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\SafeFlights\SafeFlights\bin\Debug\SafeFlights.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\SafeFlights\SafeFlights\obj\Debug\SafeFlights.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\SafeFlights\SafeFlights\obj\Debug\SafeFlights.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\SafeFlights\SafeFlights\obj\Debug\SafeFlights.pdb
