@@ -26,7 +26,7 @@
         public static BigInteger FromAnyTobinary(string input, ulong baseNumber)
         {
             BigInteger result = 0;
-            ulong zeroCode = baseNumber > 9 ? zeroCode = 'a' : zeroCode = '0';
+            ulong zeroCode = baseNumber > 9 ? 'a' : '0';
             //magic
             foreach (var item in input)
             {

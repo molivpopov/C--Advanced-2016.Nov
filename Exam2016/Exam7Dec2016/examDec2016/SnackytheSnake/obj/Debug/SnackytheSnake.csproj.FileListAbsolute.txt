@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\SnackytheSnake\bin\Debug\SnackytheSnake.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\SnackytheSnake\bin\Debug\SnackytheSnake.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\SnackytheSnake\bin\Debug\SnackytheSnake.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\SnackytheSnake\obj\Debug\SnackytheSnake.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\SnackytheSnake\obj\Debug\SnackytheSnake.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\SnackytheSnake\obj\Debug\SnackytheSnake.pdb

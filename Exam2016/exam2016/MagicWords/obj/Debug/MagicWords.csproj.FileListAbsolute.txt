@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MagicWords\bin\Debug\MagicWords.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MagicWords\bin\Debug\MagicWords.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MagicWords\bin\Debug\MagicWords.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MagicWords\obj\Debug\MagicWords.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MagicWords\obj\Debug\MagicWords.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MagicWords\obj\Debug\MagicWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MultiverseCommunication\bin\Debug\MultiverseCommunication.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MultiverseCommunication\obj\Debug\MultiverseCommunication.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\exam2016\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb

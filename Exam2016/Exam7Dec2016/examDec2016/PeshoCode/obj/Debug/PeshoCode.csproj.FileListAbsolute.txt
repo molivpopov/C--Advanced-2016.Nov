@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode\bin\Debug\PeshoCode.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode\bin\Debug\PeshoCode.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode\bin\Debug\PeshoCode.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode\obj\Debug\PeshoCode.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode\obj\Debug\PeshoCode.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode\obj\Debug\PeshoCode.pdb
