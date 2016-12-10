@@ -27,7 +27,6 @@
                 startPos--;
             }
             startPos++;
-            //Console.WriteLine(text.Substring(startPos, endPos - startPos));
             int begin = startPos, end = posOfWord;
             if (text[endPos] == '?')
             {

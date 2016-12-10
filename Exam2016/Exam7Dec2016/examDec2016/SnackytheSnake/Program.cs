@@ -29,8 +29,7 @@
             {
                 if ((turn + 1) % 5 == 0)
                 {
-                    snackyLengt--;
-     
+                    snackyLengt--;  
                 };
 
                 if (commands[turn] == "l") { posOfSnackyC--; };

@@ -31,12 +31,9 @@
             else
             {
                 Console.WriteLine("Wa wa!");
-                //Console.WriteLine(PrintCards(handOfDeck));
-
             }
             Console.WriteLine(PrintCards(evenCards));
 
-           // Console.WriteLine(PrintCards(hands[0]));
         }
         public static string PrintCards(ulong finalSet)
         {

@@ -7,11 +7,11 @@
     {
         static void Main()
         {
-            var separators = new char[] { ',', ' ' };
             BigInteger prod = 1;
-            ulong baseSystem = 16;
             var digits = new string[] { "ocaml", "haskell", "scala", "f#", "lisp", "rust", "ml", "clojure", "erlang", "standardml", "racket", "elm", "mercury", "commonlisp", "scheme", "curry" };
+            ulong baseSystem = (ulong) digits.Length;
             var numbers = Console.ReadLine().Split(',').Select(x => x.Trim()).ToArray();
+
             for (int i = 0; i < numbers.Length; i++)
             {
                 string thisNumber = numbers[i];
@@ -19,20 +19,18 @@
 
                 do
                 {
-                    int p = 0;
-                    while (thisNumber.IndexOf(digits[p]) != 0)
+                    int currentDigit = 0;
+                    while (thisNumber.IndexOf(digits[currentDigit]) != 0)
                     {
-                        p++;
+                        currentDigit++;
                     }
-                    thisNumber = thisNumber.Remove(0, digits[p].Length);
-                    number = number * baseSystem + (ulong)p;
-
+                    thisNumber = thisNumber.Remove(0, digits[currentDigit].Length);
+                    number = number * baseSystem + (ulong) currentDigit;
                 }
                 while (thisNumber.Length > 0);
                 prod *= (BigInteger) number;
-                //int number = Array.FindIndex(digits, x => x == numbers[i]);
             }
             Console.WriteLine(prod);
-        } 
+        }
     }
 }
