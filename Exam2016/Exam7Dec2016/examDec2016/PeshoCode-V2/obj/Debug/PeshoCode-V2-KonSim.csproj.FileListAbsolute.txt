@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode-V2\bin\Debug\PeshoCode-V2.exe.config
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode-V2\bin\Debug\PeshoCode-V2.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode-V2\bin\Debug\PeshoCode-V2.pdb
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode-V2\obj\Debug\PeshoCode-V2-KonSim.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode-V2\obj\Debug\PeshoCode-V2.exe
+C:\Users\DPopov\Documents\C#-Advanced-2016.Nov\Repos\C--Advanced-2016.Nov\Exam2016\Exam7Dec2016\examDec2016\PeshoCode-V2\obj\Debug\PeshoCode-V2.pdb
